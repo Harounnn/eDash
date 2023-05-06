@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.png 
+
+#dataset
+Notebook/dataset/Stats.csv
+Notebook/dataset/StatsCountry.csv
+Notebook/dataset/StatsSeries.csv
