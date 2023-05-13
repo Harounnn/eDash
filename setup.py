@@ -17,8 +17,8 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='StuDash',
-    version='0.1',
+    name='eDash',
+    version='0.2',
     author='Harounnn',
     author_email='medharoun.1919@gmail.com',
     packages=find_packages(),
