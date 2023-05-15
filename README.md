@@ -8,6 +8,6 @@ For in-depth understanding of the indicators present in the dataset : Click [Her
 Github don't render embedded HTML in notebooks so to see the visualizations that are present in the EDA notebook so I displayed it as PNG images but I still suggest downloading it locally and run it yourself if you are intrested in interactive plots , because at the moment the application is not yet done . When it is done , the visualizations will be available of course in the web-based dashboard.
 
 ## Screenshot from the webapp (TEST)
-![test](screenshots\test1.png)
+![test](screenshots/test1.png)
 
 ## Work In Progress . . .
