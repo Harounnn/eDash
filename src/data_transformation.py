@@ -1,7 +1,7 @@
 # Imports
 import pandas as pd
 import numpy as np
-import data_ingestion
+import src.data_ingestion as data_ingestion
 
 
 
