@@ -12,7 +12,7 @@ Github don't render embedded HTML in notebooks so to see the visualizations that
 ## Screenshot from the webapp 
 
 ![test](https://github.com/Harounnn/eDash/blob/3abf62d37f21669ad9655243db590fd609929677/screenshots/test1.png)
-![pic1](https://github.com/Harounnn/eDash/blob/3abf62d37f21669ad9655243db590fd609929677/screenshots/pic1.png)
-![pic2](https://github.com/Harounnn/eDash/blob/3abf62d37f21669ad9655243db590fd609929677/screenshots/pic2.png)
+![pic1](https://github.com/Harounnn/eDash/blob/cda92cef2bcc93e3ab8135919069dffafd899331/screenshots/pic1.png)
+![pic2](https://github.com/Harounnn/eDash/blob/cda92cef2bcc93e3ab8135919069dffafd899331/screenshots/pic2.png)
 
 
